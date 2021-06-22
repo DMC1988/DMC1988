@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damian Caputo
+- 👋 Hi, I’m Damian Caputo.
 - 👀 I’m interested in electronics and science. Also in finance and investing.
 - 🌱 I’m currently learning embedded systems and python.
 - 📫 How to reach me ... This is my LinkedIn [profile](https://www.linkedin.com/in/damian-caputo/) and my mail damian.m.caputo@gmail.com
