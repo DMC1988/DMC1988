@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damian Caputo.
 - 👀 I’m an electronic engineer with experience in electrical safety IEC standards and PCB layout.
-- 🌱 I’m currently workking in semiconductor industry, but I've never abandon the passion for PCB and hardware design.
+- 🌱 I’m currently working in semiconductor industry, but I've never abandon the passion for PCB and hardware design.
 - I speak fluent English and native Spanish.
 - 📫 How to reach me ...:
   - damian.m.caputo@gmail.com
