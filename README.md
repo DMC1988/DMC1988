@@ -5,12 +5,8 @@
 - 📫 How to reach me ...:
   - damian.m.caputo@gmail.com
   - LinkedIn [profile](https://www.linkedin.com/in/damian-caputo/)
-  - Upwork [profile](https://www.upwork.com/freelancers/~0121020e6ecaea48ed)
-  - Fivver [profile]()
-  - Freelancer [profile]()
-  - Peopleperhour [profile]()
-
-
+  - Blog [profile](https://unblogsobreelectronica.blogspot.com/)
+  - 
 <!---
 DMC1988/DMC1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
